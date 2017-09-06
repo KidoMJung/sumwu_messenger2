@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kido",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
 }
